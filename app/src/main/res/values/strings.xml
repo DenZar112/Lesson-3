@@ -11,4 +11,10 @@
     <string name="_9">9</string>
     <string name="_0">0</string>
     <string name="dot">.</string>
+    <string name="division">/</string>
+    <string name="multiplication">X</string>
+    <string name="addition">+</string>
+    <string name="subtraction">-</string>
+    <string name="equally">=</string>
+    <string name="aplication">+</string>
 </resources>
