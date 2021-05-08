@@ -5,9 +5,12 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".MainActivity"
-    tools:background="@color/teal_200">
+    android:background="@drawable/rain_drops_glass_evening_city_night_1641357_pxhere_com">
+
 
 <include layout="@layout/activity_main_constraint"/>
+
+
 
 </androidx.constraintlayout.widget.ConstraintLayout>
 
